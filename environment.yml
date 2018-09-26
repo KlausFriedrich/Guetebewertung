@@ -12,10 +12,8 @@ dependencies:
   
   - ipywidgets
   
-  - IPython.display
+  - IPython
   
-  - warnings
-  
-  - scipy.stats
+  - scipy
   
   - seaborn
