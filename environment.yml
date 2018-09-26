@@ -1,0 +1,21 @@
+dependencies:
+
+  - python
+
+  - numpy
+
+  - matplotlib
+
+  - pandas
+
+  - rise
+  
+  - ipywidgets
+  
+  - IPython.display
+  
+  - warnings
+  
+  - scipy.stats
+  
+  - seaborn
