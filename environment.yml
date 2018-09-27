@@ -1,19 +1,10 @@
 dependencies:
-
-  - python
-
-  - numpy
-
-  - matplotlib
-
-  - pandas
-  
-  - ipywidgets
-  
-  - IPython
-  
-  - scipy
-  
-  - seaborn
-  
-  - rise
+ - python
+ - numpy
+ - matplotlib
+ - pandas
+ - ipywidgets
+ - IPython
+ - scipy
+ - seaborn
+ - rise
